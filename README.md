@@ -25,7 +25,7 @@ a passion for building and designing digital experiences.
     <td width="50%">
       <h3>Photo Gallery</h3>
       <p>Voice-controlled desktop assistant with app launching, YouTube search/play, and system control.</p>
-      <a href="https://github.com/subhranilnath/PHOTO_GALLERY-REPO">
+      <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
         <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation.png" alt="Assistant Demo" width="100%" style="border-radius":15px; "/>
       </a>
     </td>
