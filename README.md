@@ -29,8 +29,8 @@ a passion for building and designing digital experiences.
       </a>
     </td>
     <td width="50%">
-      <p align="center"><b>EVA (ENHANCED VIRTUAL ASSISTANT)</b></p>
-      <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
+      <p align="center"><b>EVA.AI</b></p>
+      <a href="https://github.com/subhranilnath/EVA-DEMO">
         <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation1.png" alt="Photo Gallery" width="100%">
       </a>
     </td>
