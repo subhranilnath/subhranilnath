@@ -23,19 +23,13 @@ a passion for building and designing digital experiences.
 <table>
   <tr>
     <td width="50%">
-      <details>
-      <summary><h3>Photo Gallery</h3></summary>
-      <p>A themed photo gallery showcasing Marvel characters, built using HTML, CSS, and JavaScript.</p>
-      </details>
+      <h3>Photo Gallery</h3>
       <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
         <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation.png" alt="Assistant Demo" width="100%" style="border-radius":15px; "/>
       </a>
     </td>
     <td width="50%">
-      <details>
-      <summary><h3>Photo Gallery</h3></summary>
-      <p>A themed photo gallery showcasing Marvel characters, built using HTML, CSS, and JavaScript.</p>
-      </details>
+      <h3>Photo Gallery</h3>
       <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
         <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation.png" alt="Assistant Demo" width="100%" style="border-radius":15px; "/>
       </a>
