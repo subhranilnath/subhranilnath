@@ -23,17 +23,21 @@ a passion for building and designing digital experiences.
 <table>
   <tr>
     <td width="50%">
-      <h3>Photo Gallery</h3>
-      <p>Voice-controlled desktop assistant with app launching, YouTube search/play, and system control.</p>
+      <details>
+      <summary><h3>Photo Gallery</h3></summary>
+      <p>A themed photo gallery showcasing Marvel characters, built using HTML, CSS, and JavaScript.</p>
+      </details>
       <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
         <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation.png" alt="Assistant Demo" width="100%" style="border-radius":15px; "/>
       </a>
     </td>
     <td width="50%">
-      <h3>🎮 Unity Meme Game</h3>
-      <p>A fun Unity game that starts with a meme and ends with gameplay surprise.</p>
-      <a href="https://github.com/username/unity-game">
-        <img src="screenshots/game.png" alt="Game Demo" width="100%">
+      <details>
+      <summary><h3>Photo Gallery</h3></summary>
+      <p>A themed photo gallery showcasing Marvel characters, built using HTML, CSS, and JavaScript.</p>
+      </details>
+      <a href="https://github.com/subhranilnath/PHOTO-GALLERY-REPO">
+        <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation.png" alt="Assistant Demo" width="100%" style="border-radius":15px; "/>
       </a>
     </td>
   </tr>
