@@ -7,8 +7,6 @@ a passion for building and designing digital experiences.
 🎯 Focused on learning, building real-world projects, and growing both technically and creatively  
 🎨 Creative thinker with a keen eye for design
 
-📬 Reach me at: subhranilnath.official@gmail.com
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
