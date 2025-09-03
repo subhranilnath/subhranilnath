@@ -34,4 +34,14 @@ a passion for building and designing digital experiences.
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>SCHOOL WEBSITE</b></p>
+      <a href="https://github.com/subhranilnath/KIDDOMA_DEMO">
+        <img src="https://github.com/subhranilnath/screenshots/blob/main/ss/Presentation2.png" alt="Photo Gallery" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
